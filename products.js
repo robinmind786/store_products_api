@@ -341,7 +341,7 @@
                             "height": 149
                         },
                         "large2": {
-                            "url": "./img/products/overlay/03.png",
+                            "url": "./img/products/overlay/03.jpg",
                             "width": 149,
                             "height": 149
                         }
