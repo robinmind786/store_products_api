@@ -325,23 +325,23 @@
             "image": [
                 {
                     "id": "09",
-                    "url": "./img/products/09.jpg",
-                    "filename": "product-9.jpg",
+                    "url": "./img/products/09.png",
+                    "filename": "product-9.png",
                     "size": 62864,
                     "type": "image/jpg",
                     "thumbnails": {
                         "small": {
-                            "url": "./img/products/09.jpg",
+                            "url": "./img/products/09.png",
                             "width": 56,
                             "height": 36
                         },
                         "large1": {
-                            "url": "./img/products/09.jpg",
+                            "url": "./img/products/09.png",
                             "width": 149,
                             "height": 149
                         },
                         "large2": {
-                            "url": "./img/products/overlay/03.jpg",
+                            "url": "./img/products/overlay/03.png",
                             "width": 149,
                             "height": 149
                         }
