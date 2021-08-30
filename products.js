@@ -466,5 +466,239 @@
                 }
             ]
         }
+    },
+    {
+        "id": "13",
+        "fields": {
+            "company": "ikea",
+            "colors": [
+                "#f15025",
+                "#222"
+            ],
+            "holiday": true,
+            "price": 3723,
+            "title": "Hartington Blue Stilton Cheese 1kg Half Moon",
+            "image": [
+                {
+                    "id": "13",
+                    "url": "./img/products/13.jpg",
+                    "filename": "product-13.jpg",
+                    "size": 62864,
+                    "type": "image/jpg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "./img/products/13.jpg",
+                            "width": 56,
+                            "height": 36
+                        },
+                        "large1": {
+                            "url": "./img/products/13.jpg",
+                            "width": 149,
+                            "height": 149
+                        },
+                        "large2": {
+                            "url": "./img/products/overlay/01.jpg",
+                            "width": 149,
+                            "height": 149
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "14",
+        "fields": {
+            "company": "ikea",
+            "colors": [
+                "#f15025",
+                "#222"
+            ],
+            "holiday": true,
+            "price": 599,
+            "title": "The Condiment Company Mayonnaise, Blue Cheese, 190 Gram",
+            "image": [
+                {
+                    "id": "14",
+                    "url": "./img/products/14.jpg",
+                    "filename": "product-14.jpg",
+                    "size": 62864,
+                    "type": "image/jpg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "./img/products/14.jpg",
+                            "width": 56,
+                            "height": 36
+                        },
+                        "large1": {
+                            "url": "./img/products/14.jpg",
+                            "width": 149,
+                            "height": 149
+                        },
+                        "large2": {
+                            "url": "./img/products/overlay/02.jpg",
+                            "width": 149,
+                            "height": 149
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "15",
+        "fields": {
+            "company": "ikea",
+            "colors": [
+                "#f15025",
+                "#222"
+            ],
+            "holiday": true,
+            "price": 580,
+            "title": "FRESH TUNA FILLET 300G",
+            "image": [
+                {
+                    "id": "15",
+                    "url": "./img/products/15.jpg",
+                    "filename": "product-15.jpg",
+                    "size": 62864,
+                    "type": "image/jpg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "./img/products/15.jpg",
+                            "width": 56,
+                            "height": 36
+                        },
+                        "large1": {
+                            "url": "./img/products/15.jpg",
+                            "width": 149,
+                            "height": 149
+                        },
+                        "large2": {
+                            "url": "./img/products/overlay/03.jpg",
+                            "width": 149,
+                            "height": 149
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "16",
+        "fields": {
+            "company": "ikea",
+            "colors": [
+                "#f15025",
+                "#222"
+            ],
+            "holiday": true,
+            "price": 1416,
+            "title": "NORWAY FRESH SALMON FILLET 300G",
+            "image": [
+                {
+                    "id": "16",
+                    "url": "./img/products/16.jpg",
+                    "filename": "product-16.jpg",
+                    "size": 62864,
+                    "type": "image/jpg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "./img/products/16.jpg",
+                            "width": 56,
+                            "height": 36
+                        },
+                        "large1": {
+                            "url": "./img/products/16.jpg",
+                            "width": 149,
+                            "height": 149
+                        },
+                        "large2": {
+                            "url": "./img/products/overlay/04.jpg",
+                            "width": 149,
+                            "height": 149
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "17",
+        "fields": {
+            "company": "ikea",
+            "colors": [
+                "#f15025",
+                "#222"
+            ],
+            "holiday": true,
+            "price": 144,
+            "title": "Sweet Corn (g)",
+            "image": [
+                {
+                    "id": "17",
+                    "url": "./img/products/17.jpg",
+                    "filename": "product-17.jpg",
+                    "size": 62864,
+                    "type": "image/jpg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "./img/products/17.jpg",
+                            "width": 56,
+                            "height": 36
+                        },
+                        "large1": {
+                            "url": "./img/products/17.jpg",
+                            "width": 149,
+                            "height": 149
+                        },
+                        "large2": {
+                            "url": "./img/products/overlay/05.jpg",
+                            "width": 149,
+                            "height": 149
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "18",
+        "fields": {
+            "company": "ikea",
+            "colors": [
+                "#f15025",
+                "#222"
+            ],
+            "holiday": true,
+            "price": 51,
+            "title": "Sweet Corn (g)",
+            "image": [
+                {
+                    "id": "18",
+                    "url": "./img/products/18.jpg",
+                    "filename": "product-18.jpg",
+                    "size": 62864,
+                    "type": "image/jpg",
+                    "thumbnails": {
+                        "small": {
+                            "url": "./img/products/18.jpg",
+                            "width": 56,
+                            "height": 36
+                        },
+                        "large1": {
+                            "url": "./img/products/18.jpg",
+                            "width": 149,
+                            "height": 149
+                        },
+                        "large2": {
+                            "url": "./img/products/overlay/06.jpg",
+                            "width": 149,
+                            "height": 149
+                        }
+                    }
+                }
+            ]
+        }
     }
 ]
